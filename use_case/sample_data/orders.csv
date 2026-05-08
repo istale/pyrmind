@@ -1,0 +1,21 @@
+order_id,customer,region,product,quantity,price
+1001,Alice Johnson,asia,Widget A,2,29.99
+1002,Bob Smith,asia,Gadget B,1,49.99
+1003,Carol White,europe,Widget A,3,29.99
+1004,David Brown,americas,Gadget B,2,49.99
+1005,Eva Martinez,asia,Tool C,1,19.99
+1006,Frank Wilson,europe,Widget A,1,29.99
+1007,Grace Lee,oceania,Gadget B,4,49.99
+1008,Henry Taylor,africa,Tool C,2,19.99
+1009,Ivy Chen,asia,Widget A,1,29.99
+1010,Jack Davis,americas,Gadget B,1,49.99
+1011,Kate Miller,europe,Tool C,3,19.99
+1012,Leo Garcia,asia,Widget A,2,29.99
+1013,Mia Wilson,oceania,Gadget B,1,49.99
+1014,Noah Anderson,africa,Tool C,2,19.99
+1015,Olivia Thomas,americas,Widget A,4,29.99
+1016,Paul Jackson,europe,Gadget B,2,49.99
+1017,Quinn White,asia,Tool C,1,19.99
+1018,Rachel Black,oceania,Widget A,3,29.99
+1019,Sam Green,americas,Gadget B,1,49.99
+1020,Tina Brown,europe,Tool C,2,19.99
